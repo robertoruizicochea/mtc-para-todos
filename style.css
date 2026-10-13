@@ -1,0 +1,17 @@
+body{margin:0;font-family:system-ui,Segoe UI,Roboto,sans-serif;background:#f5f1e8;color:#2b2b2b}
+header{background:linear-gradient(135deg,#7a1f1f,#b8452f);color:#fff;padding:22px 32px;position:relative}header h1{margin:0;font-size:26px}header p{margin:4px 0 0;opacity:.85}
+#lang{position:absolute;right:24px;top:22px;background:#fff3;color:#fff;border:1px solid #fff8;border-radius:20px;padding:6px 14px;cursor:pointer;font-weight:700}
+.wrap{max-width:1100px;margin:auto;padding:20px}.search{background:#fff;border-radius:14px;padding:18px;box-shadow:0 2px 10px #0001;margin-top:-10px}
+.box{display:flex;gap:8px}.box input{flex:1;font-size:18px;padding:12px;border:2px solid #b8452f;border-radius:10px}.box button{background:#b8452f;color:#fff;border:0;border-radius:10px;padding:0 22px;font-size:16px;cursor:pointer}
+#ac div{padding:8px 12px;cursor:pointer;border-bottom:1px solid #eee}#ac div:hover{background:#f3e3d3}
+.chips label{display:inline-block;background:#f3e3d3;border-radius:20px;padding:4px 12px;margin:8px 6px 0 0;font-size:14px;cursor:pointer}.chips input{margin-right:5px}
+.warn{background:#fff3cd;border-left:6px solid #e0a800;padding:12px 16px;border-radius:8px;margin:18px 0;font-size:14px}.red{background:#fde2e1;border-left:6px solid #c0392b}
+h2{color:#7a1f1f;margin-top:30px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px}
+.card{background:#fff;border-radius:14px;padding:16px 18px;box-shadow:0 2px 8px #0001;border-top:5px solid #b8452f}.card.best{border-top-color:#1e8449;box-shadow:0 0 0 3px #1e844955}
+.card h3{margin:0 0 4px;font-size:18px}.zh{color:#999;font-weight:normal}.card p,.card li{font-size:14px;line-height:1.45}
+.b{display:inline-block;font-size:12px;font-weight:700;padding:3px 9px;border-radius:12px;color:#fff;margin-right:4px}
+.fuerte{background:#1e8449}.moderada{background:#2e86c1}.debil{background:#d68910}.tradicional{background:#7d3c98}.sin_graduar{background:#7f8c8d}.laboratorio{background:#16a085}.animales{background:#8e44ad}.humanos{background:#c0392b}
+.herb{display:inline-block;background:#faf3ea;border:1px solid #ecd9c4;border-radius:8px;padding:4px 8px;margin:3px 4px 0 0;font-size:13px}.herb i{color:#777}
+a{color:#b8452f}.src{font-size:12px}.legend{font-size:13px}.err{color:#c0392b;font-weight:600}footer{font-size:12px;color:#666;padding:20px 32px;text-align:center}
+.list a{display:inline-block;margin:3px 8px;font-size:14px}
+.chino{background:#c0392b}
